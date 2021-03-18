@@ -1,0 +1,6 @@
+
+travelweb/db.sqlite3
+
+*.pyc
+
+travelweb/travelweb/__pycache__/
